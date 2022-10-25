@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geo-WeatherApp</string>
+    <string name="logo">Координаты и температура города</string>
+    <string name="hint_user_field">Введите название города</string>
+    <string name="main_btn">Узнать</string>
+    <string name="no_user_input">Введите текст</string>
+
+</resources>

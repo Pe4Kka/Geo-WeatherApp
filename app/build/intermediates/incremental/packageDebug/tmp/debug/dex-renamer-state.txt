@@ -1,0 +1,4 @@
+#Tue Oct 25 13:42:10 MSK 2022
+base.0=C\:\\Users\\sar28\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
